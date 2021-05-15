@@ -1,0 +1,10 @@
+.contenedorPrincipal{
+  display: flex;
+  width: 49%;
+  }
+  .tablaMantenimientos{
+    background-color: cadetblue;
+  }
+  .contenedorMateriales{
+    display: flex;
+  }

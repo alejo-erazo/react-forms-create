@@ -1,0 +1,10 @@
+.contenedorMantenimientos{
+
+    width: 100%;
+    display: flex;
+   
+}
+.mantenimientos{
+    display: block;
+    margin-right: 10px;
+}
